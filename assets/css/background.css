@@ -1,0 +1,11 @@
+.background {
+  background-image: url(.../img.landing.png);
+  background-position: center;
+  background-size: cover;
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+.background divider {
+  opacity: 0.2;
+}
